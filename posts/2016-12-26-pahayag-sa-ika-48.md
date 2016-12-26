@@ -4,10 +4,9 @@ title: Paigtingin ang armadong rebolusyon!
 Manggagawa, sumapi sa NPA!
 description: "Pahayag ng Revolutionary Council of Trade Unions sa ika-48 anibersaryo ng Partido Komunista ng Pilipinas"
 modified: 2016-12-26
-tags: [sample post]
+tags: [sample post, link post]
 image:
-  feature: lr1.jpg
-  
+  feature: lr1.jpg 
 ---
 
 Ang rebolusyonaryong kilusan ng mga manggagawa ay nakikiisa sa buong sambayanang Pilipino sa pagdiriwang ng ika-48 anibersaryo ng Partido Komunista ng Pilipinas. Buong kagalakang ipinagbubunyi ng mga manggagawa ang mga tagumpay na nakamit ng rebolusyong Pilipino sa pamumuno ng Partido. Iginagawad namin ang pinakamataas na pagpupugay sa lahat ng mga martir na nag-alay ng kanilang dakilang buhay para sa rebolusyon at sa sambayanan.
