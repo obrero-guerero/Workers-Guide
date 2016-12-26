@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Paigtingin ang armadong rebolusyon!
-Manggagawa, sumapi sa NPA!
+title: "Paigtingin ang armadong rebolusyon!
+Manggagawa, sumapi sa NPA!"
 description: "Pahayag ng Revolutionary Council of Trade Unions sa ika-48 anibersaryo ng Partido Komunista ng Pilipinas"
-modified: 2016-12-26
-tags: [sample post, link post]
+tags: [statement]
 image:
   feature: lr1.jpg 
 ---
